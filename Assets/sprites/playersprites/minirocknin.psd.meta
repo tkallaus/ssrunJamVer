@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: df679947a1bed534bad54bd20202fc96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6479665531359460265
+    second: minirocknin_0
+  - first:
+      213: 9147220091828248522
+    second: minirocknin_1
+  - first:
+      213: 2994757798328064680
+    second: minirocknin_2
+  - first:
+      213: 4908568169639539429
+    second: minirocknin_3
+  - first:
+      213: 6869933092445634899
+    second: minirocknin_4
+  - first:
+      213: -7955965791845986404
+    second: minirocknin_5
+  - first:
+      213: 8608745690060781097
+    second: minirocknin_6
+  - first:
+      213: -9049653000981676908
+    second: minirocknin_7
+  - first:
+      213: -8121858970545136607
+    second: minirocknin_8
+  - first:
+      213: -6879330157594156136
+    second: minirocknin_7
+  - first:
+      213: 9081638172766465410
+    second: minirocknin_10
+  - first:
+      213: 3759410665818375064
+    second: minirocknin_11
+  - first:
+      213: 219129744697662349
+    second: minirocknin_12
+  - first:
+      213: 167832141685019482
+    second: minirocknin_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minirocknin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540afba78a9316a0800000000000000
+      internalID: -6479665531359460265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 487
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1dbf953471fe70800000000000000
+      internalID: 9147220091828248522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 487
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aadca5c9548f8920800000000000000
+      internalID: 2994757798328064680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 487
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2772b5ebcbe1440800000000000000
+      internalID: 4908568169639539429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 461
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3514ce5cfb7e65f50800000000000000
+      internalID: 6869933092445634899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 461
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f4cdbc34bb69190800000000000000
+      internalID: -7955965791845986404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 461
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8090682, y: 0.49946776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267fb11898687770800000000000000
+      internalID: 8608745690060781097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 436
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c56d83c4c594f80800000000000000
+      internalID: -8121858970545136607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 461
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8090682, y: 0.49946776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e7ff7ba5b780a0800000000000000
+      internalID: -6879330157594156136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 433
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7336018, y: 0.55459595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6f523dc5780e70800000000000000
+      internalID: 9081638172766465410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 435
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.2962497, y: 0.61773425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934be4151c1c2430800000000000000
+      internalID: 3759410665818375064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 433
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5587515, y: 0.58312047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1d6087518a0300800000000000000
+      internalID: 219129744697662349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minirocknin_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 436
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5117442, y: 0.51261014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5357039172445200800000000000000
+      internalID: 167832141685019482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
